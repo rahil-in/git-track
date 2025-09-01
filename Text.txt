@@ -1,1 +1,3 @@
 Hello, this is 1
+This is from branch b2
+B2 hadded 2 new lines.
